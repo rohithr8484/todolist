@@ -1,2 +1,2 @@
 # todolist
-A Javascript based todolist application
+A CSS and Javascript based todolist application
